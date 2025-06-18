@@ -25,7 +25,7 @@ This is the frontend for the **FinSolve Technologies Chatbot** project, built wi
 ### Prerequisites
 
 - Node.js (v18+ recommended)
-- Backend API running (see [FinSolve backend repo](#) for details)
+- Backend API running (see [FinSolve backend repo](https://github.com/prateeksharma1809/ds-rpc-01) for details)
 
 ### Installation
 
