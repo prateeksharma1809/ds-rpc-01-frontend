@@ -4,13 +4,13 @@ This is the frontend for the **FinSolve Technologies Chatbot** project, built wi
 
 ## Features
 
-### 🌟 Chat Interface
+### Chat Interface
 - **Role-based login**: Users log in with a username, password, and role.
 - **AI Assistant**: Ask questions about your documents and receive detailed, sourced answers.
 - **Source Table**: Each AI response includes a table of document sources (if available).
 - **Responsive UI**: Works great on desktop and mobile.
 
-### 🛡️ Admin Dashboard
+### Admin Dashboard
 - **User Management**: Create, search, and delete users. Assign roles: engineering, marketing, finance, hr, general, c-level, admin.
 - **Index Management**: 
   - Initialize vector store
